@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Search-Engine-Total-Number-Of-Results: 10 -->
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+    <record>
+        <controlfield tag="000">00913cab\a2200229\a\4500</controlfield>
+        <controlfield tag="001">69364</controlfield>
+        <controlfield tag="005">20190627164417.0</controlfield>
+        <controlfield tag="008">190627e2019\\\\xx\|r\\\\g\\\\0\\\a|eng\\</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">69364</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Albrecht, Christian</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Blockchain bills of lading :</subfield>
+            <subfield code="b">the end of history? Overcoming paper-based transport documents in sea carriage through new technologies</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Bibliography of recent writings related to the work of UNCITRAL, 53rd Session, 2020, New York.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Included in UNCITRAL bibliography on electronic commerce.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Included in UNCITRAL bibliography on international transport</subfield>
+        </datafield>
+        <datafield tag="630" ind1="0" ind2="7">
+            <subfield code="a">UNCITRAL Model Law on Electronic Transferable Records (2017)</subfield>
+        </datafield>
+        <datafield tag="630" ind1="0" ind2="7">
+            <subfield code="a">UN Convention on Contracts for the International Carriage of Goods Wholly or Partly by Sea (2008)</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">ELECTRONIC COMMERCE</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">MULTIMODAL TRANSPORT</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">BILLS OF LADING</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="3">Article from a journal</subfield>
+            <subfield code="d">(New Orleans, La.) 43:252-288, 2019.</subfield>
+            <subfield code="t">Tulane maritime law journal</subfield>
+        </datafield>
+        <datafield tag="852" ind1="7" ind2=" ">
+            <subfield code="b">UNCITRAL</subfield>
+            <subfield code="h">UNCITRAL bibliography 53rd Sess. 2020</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">UNCITRAL</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">article</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00697cab\a2200217\a\4500</controlfield>
+        <controlfield tag="001">69363</controlfield>
+        <controlfield tag="005">20190627111539.0</controlfield>
+        <controlfield tag="008">190627e2018\\\\xx\|r\\\\g\\\\0\\\a|eng\\</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">69363</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">El-Hosseny, Farouk</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Investor-State dispute settlement in the Arab world :</subfield>
+            <subfield code="b">is there a clear path for</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Bibliography of recent writings related to the work of UNCITRAL, 53rd Session, 2020, New York.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Included in UNCITRAL bibliography on investor-State dispute settlement</subfield>
+        </datafield>
+        <datafield tag="610" ind1="2" ind2="7">
+            <subfield code="a">UN Commission on International Trade Law</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">INVESTMENT DISPUTES</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">DISPUTE SETTLEMENT</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">ARAB COUNTRIES</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Ghandour, Ruba</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="3">Article from a journal</subfield>
+            <subfield code="d">(Beirut) 10:2:7-29, 2018</subfield>
+            <subfield code="t">International journal of Arab arbitration</subfield>
+        </datafield>
+        <datafield tag="852" ind1="7" ind2=" ">
+            <subfield code="b">UNCITRAL</subfield>
+            <subfield code="h">UNCITRAL bibliography 53rd Sess. 2020</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">UNCITRAL</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">article</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00689cab\a2200229\a\4500</controlfield>
+        <controlfield tag="001">69362</controlfield>
+        <controlfield tag="005">20190627104702.0</controlfield>
+        <controlfield tag="008">190627e2015\\\\xx\|r\\\\g\\\\0\\\a|eng\\</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">69362</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Girasa, Roy J.</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Yukos Oil Company and cross-border insolvencies</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Bibliography of recent writings related to the work of UNCITRAL, 53rd Session, 2020, New York.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Included in UNCITRAL bibliography on insolvency.</subfield>
+        </datafield>
+        <datafield tag="630" ind1="0" ind2="7">
+            <subfield code="a">UNCITRAL Model Law on Cross-Border Insolvency (1997)</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">CROSS-BORDER INSOLVENCY</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">RUSSIAN FEDERATION</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">UNITED STATES</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Kraus, Richard J.</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Edelstein, Peter M.</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="3">Article from a journal</subfield>
+            <subfield code="d">(Fairfield, Conn.) 33:20-46, 2015.</subfield>
+            <subfield code="t">North East journal of legal studies</subfield>
+        </datafield>
+        <datafield tag="852" ind1="7" ind2=" ">
+            <subfield code="b">UNCITRAL</subfield>
+            <subfield code="h">UNCITRAL bibliography 53rd Sess. 2020</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">UNCITRAL</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">article</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00767cab\a2200181\a\4500</controlfield>
+        <controlfield tag="001">69361</controlfield>
+        <controlfield tag="005">20190626112528.0</controlfield>
+        <controlfield tag="008">190626e2018\\\\xx\|r\\\\g\\\\0\\\a|ara\\</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">69361</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">ara</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Hadi, Ameer Talib</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">فاعلية مبدأ حسن النية في اتفاقية فينا عام 1980</subfield>
+            <subfield code="b">(دراسة تحليلية)</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Bibliography of recent writings related to the work of UNCITRAL, 53rd Session, 2020, New York.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Included in UNCITRAL bibliography on international sale of goods.</subfield>
+        </datafield>
+        <datafield tag="630" ind1="0" ind2="7">
+            <subfield code="a">UN Convention on Contracts for the International Sale of Goods (1980)</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">INTERNATIONAL SALE OF GOODS</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">GOOD FAITH</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="g">eng</subfield>
+            <subfield code="n">Translation of title</subfield>
+            <subfield code="t">Effectiveness of the principle of good faith in the CISG (1980).</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="3">Article from a journal</subfield>
+            <subfield code="d">(Baghdad) 26:7:580-597, 2018</subfield>
+            <subfield code="t">Journal of University of Babylon for Humanities</subfield>
+        </datafield>
+        <datafield tag="852" ind1="7" ind2=" ">
+            <subfield code="b">UNCITRAL</subfield>
+            <subfield code="h">UNCITRAL bibliography 53rd Sess. 2020</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">UNCITRAL</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">article</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00423cam\a2200217\i\4500</controlfield>
+        <controlfield tag="001">69360</controlfield>
+        <controlfield tag="005">20190626112312.0</controlfield>
+        <controlfield tag="006">m\\\\\\\\j\i\\\\\\</controlfield>
+        <controlfield tag="007">cr||||||||||||</controlfield>
+        <controlfield tag="008">190626s2010\\\\xx\abd\gs\\\\i000\0\eng\\</controlfield>
+        <datafield tag="110" ind1="2" ind2=" ">
+            <subfield code="a">OECD</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2=" ">
+            <subfield code="a">Public sector integrity in Brazil managing risks for a cleaner public administration :</subfield>
+            <subfield code="b">preliminary main findings and proposals for action /</subfield>
+            <subfield code="c">OECD.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Paris :</subfield>
+            <subfield code="b">OECD,</subfield>
+            <subfield code="c">2010.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">84  p. ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+        </datafield>
+        <datafield tag="490" ind1=" " ind2=" ">
+            <subfield code="a">OECD Public Governance Reviews</subfield>
+        </datafield>
+        <datafield tag="650" ind1="0" ind2=" ">
+            <subfield code="a">Corruption</subfield>
+        </datafield>
+        <datafield tag="650" ind1="0" ind2=" ">
+            <subfield code="a">Public procurement</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UNOV</subfield>
+            <subfield code="b">General</subfield>
+            <subfield code="h">328.185:35(81)</subfield>
+            <subfield code="i">O333</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">General</subfield>
+        </datafield>
+        <datafield tag="982" ind1=" " ind2=" ">
+            <subfield code="a">UNOV</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">am</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00408cas\a2200253\a\4500</controlfield>
+        <controlfield tag="001">69359</controlfield>
+        <controlfield tag="005">20190626105425.0</controlfield>
+        <controlfield tag="008">190626c2010\\\\nyuar\\\\s\\\\0\\\\0eng\d</controlfield>
+        <datafield tag="245" ind1="0" ind2="4">
+            <subfield code="a">Global Agenda Council Reports 2010 /</subfield>
+            <subfield code="c">World Economic Forum</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Geneva :</subfield>
+            <subfield code="b">World Economic Forum,</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">361 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">30 cm.</subfield>
+        </datafield>
+        <datafield tag="310" ind1=" " ind2=" ">
+            <subfield code="a">Annual</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Competition, International</subfield>
+            <subfield code="v">Periodicals.</subfield>
+            <subfield code="v">Statistics</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">International trade</subfield>
+            <subfield code="v">Periodicals.</subfield>
+            <subfield code="v">Statistics</subfield>
+        </datafield>
+        <datafield tag="710" ind1="2" ind2=" ">
+            <subfield code="a">World Economic Forum.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UNOV</subfield>
+            <subfield code="b">General</subfield>
+            <subfield code="h">050.8</subfield>
+            <subfield code="i">W675</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">General</subfield>
+        </datafield>
+        <datafield tag="982" ind1=" " ind2=" ">
+            <subfield code="a">UNOV</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">am</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00476cam\a22002175i\4500</controlfield>
+        <controlfield tag="001">69358</controlfield>
+        <controlfield tag="005">20190626104634.0</controlfield>
+        <controlfield tag="008">190626s2003\\\\nyu\\\\\\\\\\\000\0\eng\\</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9517244010</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">Preventing corruption :</subfield>
+            <subfield code="b">a handbook of anti-corruption techniques for use in international development cooperation ; guidelines.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Helsinki, Finland :</subfield>
+            <subfield code="b">Hakapaino Oy,</subfield>
+            <subfield code="c">2003.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xiv, 533 p. ;</subfield>
+            <subfield code="c">24 cm.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="2">unbist</subfield>
+            <subfield code="a">BRIBERY.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="2">unbist</subfield>
+            <subfield code="a">CORPORATE CORRUPTION.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="2">unbist</subfield>
+            <subfield code="a">CORRUPTION</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="2">unbist</subfield>
+            <subfield code="a">POLITICAL CORRUPTION.</subfield>
+        </datafield>
+        <datafield tag="852" ind1="8" ind2=" ">
+            <subfield code="a">UNOV</subfield>
+            <subfield code="b">General</subfield>
+            <subfield code="h">343.352</subfield>
+            <subfield code="i">P748</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">General</subfield>
+        </datafield>
+        <datafield tag="982" ind1=" " ind2=" ">
+            <subfield code="a">UNLV</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">am</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00539cam\a2200313\\\4500</controlfield>
+        <controlfield tag="001">69357</controlfield>
+        <controlfield tag="005">20190626103143.0</controlfield>
+        <controlfield tag="008">190626s2005\\\\xx\\\\\\\\\\\\\\\\\\eng\\</controlfield>
+        <datafield tag="041" ind1=" " ind2=" ">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Nissen, Christine J.</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2=" ">
+            <subfield code="a">Living under the rule of corruption :</subfield>
+            <subfield code="b">an analysis of everyday forms of corruption practices in Cambodia ; report on qualitative research component /</subfield>
+            <subfield code="c">by Christine J. Nissen.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Phnom Penh, Cambodia :</subfield>
+            <subfield code="b">Center for Social Development,</subfield>
+            <subfield code="c">2005.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">xi, 102 p. :</subfield>
+            <subfield code="b">ill. ;</subfield>
+            <subfield code="c">20 cm.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="2">unbist</subfield>
+            <subfield code="a">CORRUPTION</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="2">unbist</subfield>
+            <subfield code="a">POLITICAL CORRUPTION</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="2">unbist</subfield>
+            <subfield code="a">CAMBODIA</subfield>
+        </datafield>
+        <datafield tag="852" ind1=" " ind2=" ">
+            <subfield code="a">UNOV</subfield>
+            <subfield code="b">General</subfield>
+            <subfield code="h">343.9.024:336.7(596)</subfield>
+            <subfield code="i">N577</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">General</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">Monographs</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00944cab\a2200193\a\4500</controlfield>
+        <controlfield tag="001">69356</controlfield>
+        <controlfield tag="005">20190626105715.0</controlfield>
+        <controlfield tag="008">190626s2017\\\\xx\|r\\\\g\\\\0\\\a|rus\\</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">69356</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">rus</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Samoylov, Mikhail</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Применение Нью-Йоркской конвенции к иностранным судебным решениям :</subfield>
+            <subfield code="b">анализ ошибочной практики российских судов</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Bibliography of recent writings related to the work of UNCITRAL, 53rd Session, 2020, New York.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Included in UNCITRAL bibliography on international commercial arbitration and conciliation</subfield>
+        </datafield>
+        <datafield tag="630" ind1="0" ind2="7">
+            <subfield code="a">Convention on the Recognition and Enforcement of Foreign Arbitral Awards (1958)</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">INTERNATIONAL COMMERCIAL ARBITRATION</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">RUSSIAN FEDERATION</subfield>
+        </datafield>
+        <datafield tag="767" ind1="0" ind2=" ">
+            <subfield code="g">eng</subfield>
+            <subfield code="n">Translation of title</subfield>
+            <subfield code="t">Application of the New York Convention to foreign judgments: analysis of the wrong approach of Russian courts</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="3">Article from a journal</subfield>
+            <subfield code="d">(Moscow) 2:110-128, 2017.</subfield>
+            <subfield code="t">Herald of economic justice</subfield>
+        </datafield>
+        <datafield tag="852" ind1="7" ind2=" ">
+            <subfield code="b">UNCITRAL</subfield>
+            <subfield code="h">UNCITRAL bibliography 53rd Sess. 2020</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="3">Full text</subfield>
+            <subfield code="u">https://ssrn.com/abstract=3395200</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">UNCITRAL</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">article</subfield>
+        </datafield>
+    </record>
+    <record>
+        <controlfield tag="000">00664cab\a2200229\a\4500</controlfield>
+        <controlfield tag="001">69355</controlfield>
+        <controlfield tag="005">20190626095650.0</controlfield>
+        <controlfield tag="008">190626e2019\\\\xx\|r\\\\g\\\\0\\\a|eng\\</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">69355</subfield>
+        </datafield>
+        <datafield tag="041" ind1="0" ind2=" ">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Kim, Minjee</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Cross-border insolvency and debt restructuring law reform in Singapore :</subfield>
+            <subfield code="b">reflections on the Hanjin Shipping case</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Bibliography of recent writings related to the work of UNCITRAL, 53rd Session, 2020, New York.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="4" ind2=" ">
+            <subfield code="a">Included in UNCITRAL bibliography on insolvency.</subfield>
+        </datafield>
+        <datafield tag="630" ind1="0" ind2="7">
+            <subfield code="a">UNCITRAL Model Law on Cross-Border Insolvency (1997)</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">CROSS-BORDER INSOLVENCY</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">LAW REFORM</subfield>
+        </datafield>
+        <datafield tag="650" ind1="1" ind2="7">
+            <subfield code="a">SINGAPORE</subfield>
+        </datafield>
+        <datafield tag="773" ind1="0" ind2=" ">
+            <subfield code="3">Article from a journal</subfield>
+            <subfield code="d">(Melbourne) 19:2:1-13, 2019.</subfield>
+            <subfield code="t">Australian journal of Asian law</subfield>
+        </datafield>
+        <datafield tag="852" ind1="7" ind2=" ">
+            <subfield code="b">UNCITRAL</subfield>
+            <subfield code="h">53rd Session, 2020, New York</subfield>
+        </datafield>
+        <datafield tag="980" ind1=" " ind2=" ">
+            <subfield code="a">UNCITRAL</subfield>
+        </datafield>
+        <datafield tag="987" ind1=" " ind2=" ">
+            <subfield code="a">article</subfield>
+        </datafield>
+    </record>
+</collection>
