@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Search-Engine-Total-Number-Of-Results: 10 -->
-<collection xmlns="http://www.loc.gov/MARC21/slim">
-    <record>
+<collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns="http://www.loc.gov/MARC21/slim">
+    <marc:record>
         <controlfield tag="000">00913cab\a2200229\a\4500</controlfield>
         <controlfield tag="001">69364</controlfield>
         <controlfield tag="005">20190627164417.0</controlfield>
@@ -58,7 +58,7 @@
         <datafield tag="987" ind1=" " ind2=" ">
             <subfield code="a">article</subfield>
         </datafield>
-    </record>
+    </marc:record>
     <record>
         <controlfield tag="000">00697cab\a2200217\a\4500</controlfield>
         <controlfield tag="001">69363</controlfield>
