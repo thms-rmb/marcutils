@@ -12,6 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Supplier;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class MarcSplitterTest {
@@ -48,7 +49,7 @@ public class MarcSplitterTest {
         splitter.parse(records);
 
         for (var count : counts.values()) {
-            assertTrue(1 == count);
+            assertEquals(1, (int) count);
         }
     }
 
